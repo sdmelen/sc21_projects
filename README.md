@@ -1,2 +1,2 @@
 # sc21_projects
-This repo will help me to get acquainted with the base operations in C such as input, output, and arithmetic and keep in touch with what is happening in school21 even in home.
+Projects completed by me as part of my studies in a special cluster of the **Sber - School21**
