@@ -1,0 +1,1 @@
+"An interactive ASCII-based implementation of Conway's **Game of Life** in C, inspired by classic simulation games. The project involves developing various initial states (e.g., stable figures, oscillators, gliders) and adding user control for speed adjustments, all while integrating a narrative-driven quest."
